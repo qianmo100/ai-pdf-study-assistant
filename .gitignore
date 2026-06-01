@@ -1,0 +1,11 @@
+.env
+
+.gradio/
+
+__pycache__/
+
+*.pyc
+
+.venv/
+
+venv/
